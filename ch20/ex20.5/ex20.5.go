@@ -1,4 +1,5 @@
-//ch20/ex20.5/ex20.5.go
+// ch20/ex20.5/ex20.5.go
+// Done
 package main
 
 import "fmt"
